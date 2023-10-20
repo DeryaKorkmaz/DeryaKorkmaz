@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derya</h1>
-<h3 align="center">I had the opportunity to work as a backend developer in the field of operation of database management, data science and artificial intelligence.</h3>
+<h3 align="center">I have worked as a backend developer in the field of database management, data science and the functioning of artificial intelligence.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
